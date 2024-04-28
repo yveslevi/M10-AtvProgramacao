@@ -67,8 +67,6 @@ auth:
   providers:
     # See https://backstage.io/docs/auth/guest/provider
     guest: {}
-  keys:
-  - secret: cFPkSlH3hEfNwBy3UtidzxSW0ThKP\6wtlXh1c7Uf8I=
 
 scaffolder:
   # see https://backstage.io/docs/features/software-templates/configuration for software template options

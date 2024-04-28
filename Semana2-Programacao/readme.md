@@ -60,6 +60,10 @@ Porém na hora de rodar a imagem:
 docker run -it -p 7007:7007 backstage
 ```
 
-Está me dando esse problema:
+Esse é o resultado que me dá no terminal
 
-<img src="./assets//Captura de tela 2024-04-27 202417.png" />
+<img src="./assets/Captura de tela 2024-04-28 192951.png" />
+
+E eu consigo ver a aplicação em um ambiente local na url: http://localhost:7007
+
+<img src="./assets/Captura de tela 2024-04-28 193006.png" />
