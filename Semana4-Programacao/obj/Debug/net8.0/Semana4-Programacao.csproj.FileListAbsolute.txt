@@ -1,0 +1,15 @@
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\bin\Debug\net8.0\Semana4-Programacao.exe
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\bin\Debug\net8.0\Semana4-Programacao.deps.json
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\bin\Debug\net8.0\Semana4-Programacao.runtimeconfig.json
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\bin\Debug\net8.0\Semana4-Programacao.dll
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\bin\Debug\net8.0\Semana4-Programacao.pdb
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\obj\Debug\net8.0\Semana4-Programacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\obj\Debug\net8.0\Semana4-Programacao.AssemblyInfoInputs.cache
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\obj\Debug\net8.0\Semana4-Programacao.AssemblyInfo.cs
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\obj\Debug\net8.0\Semana4-Programacao.csproj.CoreCompileInputs.cache
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\obj\Debug\net8.0\Semana4-Programacao.sourcelink.json
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\obj\Debug\net8.0\Semana4-Programacao.dll
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\obj\Debug\net8.0\refint\Semana4-Programacao.dll
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\obj\Debug\net8.0\Semana4-Programacao.pdb
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\obj\Debug\net8.0\Semana4-Programacao.genruntimeconfig.cache
+C:\Users\YvesLapa\Documents\Github\M10-AtvProgramacao\Semana4-Programacao\obj\Debug\net8.0\ref\Semana4-Programacao.dll

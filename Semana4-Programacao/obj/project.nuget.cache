@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mj1HAWRZkiqsUIo3Dq+GxzcFglzggTIzz9Bf+q3bXEazZF49Q27lIGYmnJ1iObM1BxyUpXYOhs70JjXTczo/SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YvesLapa\\Documents\\Github\\M10-AtvProgramacao\\Semana4-Programacao\\Semana4-Programacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YvesLapa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
