@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YvesLapa\\Documents\\Github\\M10-AtvProgramacao\\Semana4-Programacao\\metric-demo.exe||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:metric-demo.exe||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YvesLapa\\Documents\\Github\\M10-AtvProgramacao\\Semana4-Programacao\\Semana4-Programacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Semana4-Programacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YvesLapa\\Documents\\Github\\M10-AtvProgramacao\\Semana4-Programacao\\HatCoMetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HatCoMetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "metric-demo.exe",
-              "DocumentMoniker": "C:\\Users\\YvesLapa\\Documents\\Github\\M10-AtvProgramacao\\Semana4-Programacao\\metric-demo.exe",
-              "RelativeDocumentMoniker": "metric-demo.exe",
-              "ToolTip": "C:\\Users\\YvesLapa\\Documents\\Github\\M10-AtvProgramacao\\Semana4-Programacao\\metric-demo.exe",
-              "RelativeToolTip": "metric-demo.exe",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
-              "WhenOpened": "2024-05-12T18:25:21.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Semana4-Programacao.csproj",
-              "DocumentMoniker": "C:\\Users\\YvesLapa\\Documents\\Github\\M10-AtvProgramacao\\Semana4-Programacao\\Semana4-Programacao.csproj",
-              "RelativeDocumentMoniker": "Semana4-Programacao.csproj",
-              "ToolTip": "C:\\Users\\YvesLapa\\Documents\\Github\\M10-AtvProgramacao\\Semana4-Programacao\\Semana4-Programacao.csproj",
-              "RelativeToolTip": "Semana4-Programacao.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-12T18:19:13.985Z",
+              "Title": "HatCoMetrics.cs",
+              "DocumentMoniker": "C:\\Users\\YvesLapa\\Documents\\Github\\M10-AtvProgramacao\\Semana4-Programacao\\HatCoMetrics.cs",
+              "RelativeDocumentMoniker": "HatCoMetrics.cs",
+              "ToolTip": "C:\\Users\\YvesLapa\\Documents\\Github\\M10-AtvProgramacao\\Semana4-Programacao\\HatCoMetrics.cs",
+              "RelativeToolTip": "HatCoMetrics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:52:24.663Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +41,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\YvesLapa\\Documents\\Github\\M10-AtvProgramacao\\Semana4-Programacao\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T18:16:35.532Z",
+              "WhenOpened": "2024-05-13T11:51:59.672Z",
               "EditorCaption": ""
             }
           ]
