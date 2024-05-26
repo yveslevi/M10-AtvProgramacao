@@ -1,0 +1,3 @@
+[submodule "aplicando-testes/aplicando-testes/DotNet5-xUnit"]
+	path = aplicando-testes/aplicando-testes/DotNet5-xUnit
+	url = https://github.com/renatogroffe/DotNet5-xUnit.git
