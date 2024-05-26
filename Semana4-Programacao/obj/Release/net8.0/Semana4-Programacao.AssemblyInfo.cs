@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Semana4-Programacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a21b20da5c3058b9bc51f7539eddb7708603911")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe5777cfddf33d5b7db3cdeb0c83bdeecb123e8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Semana4-Programacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Semana4-Programacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
