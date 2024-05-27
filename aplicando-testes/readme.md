@@ -15,7 +15,11 @@ Características:
 
 Caso de sucesso:
 
+<img src="./assets/xunit-success.png">
+
 Caso de falha:
+
+<img src="./assets/fail-xunit.png">
 
 ## NUnit
 
@@ -28,7 +32,11 @@ Características:
 
 Caso de sucesso:
 
+<img src="./assets/nunit-success.png">
+
 Caso de falha:
+
+<img src="./assets/nunit-fail.png">
 
 ## MSTest
 
@@ -41,4 +49,8 @@ Características:
 
 Caso de sucesso:
 
+<img src="./assets/mstest-success.png">
+
 Caso de falha:
+
+<img src="./assets/mstest-fail.png">
